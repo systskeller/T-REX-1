@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "TREX_SESSION": {
-            "description": "ඔබ ස්කෑන කල පසු ලැබුනු කේතය ඇතුලත් කරන්න.. , Type here yours T-Rex Session.",
+            "description": "ඔබ ස්කෑන කල පසු ලැබුනු කේතය ඇතුලත් කරන්න... , Type here yours T-Rex Session.",
             "required": true
         },
         "SUDO": {
